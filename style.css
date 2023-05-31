@@ -34,8 +34,8 @@ section {
     color: #333;
     cursor: pointer;
     margin-top: 1rem;
-    font-size: 1.5rem;
-    border-radius: 5rem;
+    font-size: 1.8rem;
+    border-radius: 2rem;
 }
 .btn i {
     padding: 0 .5rem;
@@ -103,10 +103,10 @@ header .navbar ul li a {
     display: block;
     padding: 1rem;
     margin: 1.5rem 0;
-    background:gray;
+    background:rgb(25, 25, 26);
     color: #fff;
     font-size: 2rem;
-    border-radius: 2rem;
+    border-radius: 1rem;
 }
 header .navbar ul li a:hover {
     background: #0d8230;
@@ -187,7 +187,7 @@ header .navbar ul li a:hover {
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
-    padding: 2rem 0;
+    padding: rem 0;
 }
 .portfolio .box-container .box {
     height: 20rem;
